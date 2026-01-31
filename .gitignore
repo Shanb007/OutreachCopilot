@@ -30,6 +30,7 @@ backend/.env
 # IDE
 .idea/
 .vscode/
+*.iml
 *.swp
 *.swo
 *~
